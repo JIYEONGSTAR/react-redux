@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import DisplayMember from "../containers/DisplayMember";
+import DisplayMember from "../../containers/DisplayMember";
 export default class DisplayMemberRoot extends Component {
   render() {
     return (

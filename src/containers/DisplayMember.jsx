@@ -1,4 +1,4 @@
-import DisplayMember from "../components/DisplayMember";
+import DisplayMember from "../components/Member/DisplayMember";
 import { connect } from "react-redux";
 function mapReduxStateToReactProps(state) {
   return { member: state.member };

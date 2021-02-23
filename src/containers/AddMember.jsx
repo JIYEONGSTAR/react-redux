@@ -1,4 +1,4 @@
-import AddMember from "../components/AddMember";
+import AddMember from "../components/Member/AddMember";
 import { connect } from "react-redux"; //완전 좋은 기능, react-redux 꿀기능 이거 개발한사람 천재
 function mapReduxDispatchToReactProps(dispatch) {
   //리액트프롭스를 리덕스에 디스패치함
