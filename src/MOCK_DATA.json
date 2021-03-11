@@ -8,7 +8,8 @@
     "pubDate": "2011",
     "director": "데이빗 예이츠|",
     "actor": "다니엘 래드클리프|엠마 왓슨|루퍼트 그린트|",
-    "userRating": "9.32"
+    "userRating": "9.32",
+    "like": 0
   },
   {
     "id": 7,
@@ -19,7 +20,8 @@
     "pubDate": "2010",
     "director": "데이빗 예이츠|",
     "actor": "다니엘 래드클리프|엠마 왓슨|루퍼트 그린트|",
-    "userRating": "8.20"
+    "userRating": "8.20",
+    "like": 0
   },
   {
     "id": 6,
@@ -30,7 +32,8 @@
     "pubDate": "2009",
     "director": "데이빗 예이츠|",
     "actor": "다니엘 래드클리프|엠마 왓슨|루퍼트 그린트|",
-    "userRating": "6.95"
+    "userRating": "6.95",
+    "like": 0
   },
   {
     "id": 5,
@@ -41,7 +44,8 @@
     "pubDate": "2007",
     "director": "데이빗 예이츠|",
     "actor": "다니엘 래드클리프|엠마 왓슨|루퍼트 그린트|",
-    "userRating": "7.02"
+    "userRating": "7.02",
+    "like": 0
   },
   {
     "id": 4,
@@ -52,7 +56,8 @@
     "pubDate": "2005",
     "director": "마이크 뉴웰|",
     "actor": "다니엘 래드클리프|엠마 왓슨|루퍼트 그린트|",
-    "userRating": "8.02"
+    "userRating": "8.02",
+    "like": 0
   },
   {
     "id": 3,
@@ -63,7 +68,8 @@
     "pubDate": "2004",
     "director": "알폰소 쿠아론|",
     "actor": "다니엘 래드클리프|엠마 왓슨|루퍼트 그린트|",
-    "userRating": "8.73"
+    "userRating": "8.73",
+    "like": 0
   },
   {
     "id": 2,
@@ -74,7 +80,8 @@
     "pubDate": "2002",
     "director": "크리스 콜럼버스|",
     "actor": "다니엘 래드클리프|루퍼트 그린트|엠마 왓슨|",
-    "userRating": "8.89"
+    "userRating": "8.89",
+    "like": 0
   },
   {
     "id": 1,
@@ -85,6 +92,7 @@
     "pubDate": "2001",
     "director": "크리스 콜럼버스|",
     "actor": "다니엘 래드클리프|루퍼트 그린트|엠마 왓슨|",
-    "userRating": "9.33"
+    "userRating": "9.33",
+    "like": 0
   }
 ]
